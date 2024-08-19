@@ -1,0 +1,17 @@
+Current Date: 2024/06/10
+0 days since ms1 was published
+Please enter a date to be compared to 2024/06/10
+(Also try some invalid values for testing):
+YYYY/MM/DD > abc
+cin Failed, Please try again > 2024/0/0
+Bad Month Value, Please try again > 2024/10/30
+Your Entry: 2024/10/30
+Set by program to 2024/06/10: 2024/06/10
+Days between the two dates: 142
+All the following statements must be correct:
+2024/10/30 > 2024/06/10
+2024/10/30 >= 2024/06/10
+2024/10/30 > 2024/06/10
+2024/10/30 >= 2024/06/10
+2024/10/30 != 2024/06/10
+2024/10/30 != 2024/06/10
